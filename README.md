@@ -40,3 +40,6 @@ Login Succeeded
 # 6. Run & map Docker web application
 curl -i http://`docker-machine ip default`:49160
 
+#############################################################
+# 7. How to use Docker 
+https://docs.docker.com/engine/userguide/usingdocker/
